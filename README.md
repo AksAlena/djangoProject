@@ -12,8 +12,6 @@
       session_id и далее с помощью JS библиотеки Stripe происходить редирект на Checkout
       форму `stripe.redirectToCheckout(sessionId=session_id)`
 
-
-Запуск Docker - запустить не удалось:502 Server Error for http+docker
 ------
 
 Скриншоты
